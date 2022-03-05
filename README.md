@@ -1,2 +1,2 @@
 # myIBMCertifications
-# This repository contais my certfications from IBM
+# This repository contaiNs my certfications from IBM
